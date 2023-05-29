@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="antkorwin.ioutils" type="repository">
+    <properties maven-id="com.antkorwin:ioutils:0.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/antkorwin/ioutils/0.8/ioutils-0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/antkorwin/throwable-functions/1.2/throwable-functions-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/antkorwin/better-strings/0.3/better-strings-0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
